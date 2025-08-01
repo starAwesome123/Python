@@ -1,8 +1,8 @@
-# PyQt5 Weather App ??
+# PyQt5 Weather App ☀️
 
 A simple and elegant desktop application built with PyQt5 and the OpenWeatherMap API to get real-time weather information for any city in the world.
 
-## ? Features
+## ✨ Features
 
 * **Real-time Weather Data:** Get temperature, weather description, and a corresponding emoji.
 
@@ -10,7 +10,7 @@ A simple and elegant desktop application built with PyQt5 and the OpenWeatherMap
 
 * **Robust Error Handling:** Alerts the user to common issues like network errors or city not found.
 
-## ??? Installation
+## 🛠️ Installation
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ A simple and elegant desktop application built with PyQt5 and the OpenWeatherMap
 1. **Clone the repository:**
 
    ```
-   git clone 
+   git clone https://github.com/starAwesome123/Python/edit/main/pyqt5/weather%20app
    ```
 
 2. **Install the required libraries:**
@@ -51,7 +51,7 @@ A simple and elegant desktop application built with PyQt5 and the OpenWeatherMap
 
    Replace `YOUR_API_KEY` with the key you obtained from OpenWeatherMap.
 
-## ?? Usage
+## 🚀 Usage
 
 Run the application from your terminal:
 
@@ -61,16 +61,16 @@ python main.py
 
 The app window will open. Simply type a city name into the input box and click "Get Weather" to see the current conditions.
 
-## ?? Project Structure
+## 📁 Project Structure
 
 ```
 pyqt5-weather-app/
-??? main.py               # The main application code
-??? weather.png           # The application window icon
-??? requirements.txt      # List of project dependencies
-??? README.md             # This file
+├── main.py               # The main application code
+├── weather.png           # The application window icon
+├── requirements.txt      # List of project dependencies
+└── README.md             # This file
 ```
 
-## ?? License
+## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
